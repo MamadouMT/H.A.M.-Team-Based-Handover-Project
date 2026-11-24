@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5e18de642886b6245a3010ed3d934ce8
+guid: faa1080565135024ea40944fd2278309
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2304926504585877609
-    second: Actor 1_0
+      213: 7643015141203210953
+    second: Plinko Obstacle_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -113,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Actor 1_0
+      name: Plinko Obstacle_0
       rect:
         serializedVersion: 2
-        x: 24
-        y: 0
-        width: 192
-        height: 240
+        x: 44
+        y: 44
+        width: 72
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9685933a17ebcff10800000000000000
-      internalID: 2304926504585877609
+      spriteID: 9c27958c6c1711a60800000000000000
+      internalID: 7643015141203210953
       vertices: []
       indices: 
       edges: []
@@ -148,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Actor 1_0: 2304926504585877609
+      Plinko Obstacle_0: 7643015141203210953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
